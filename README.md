@@ -1,2 +1,2 @@
 # Reactjs-Jan-Day2
-ReactJs Introduction
+ReactJs Introduction Class
