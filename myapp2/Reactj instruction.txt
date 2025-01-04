@@ -1,0 +1,57 @@
+NodeJs 
+
+npm utility/tool
+
+npm = node package manager
+
+npm install -g create-react-app
+
+We are going to create our first reactjs project
+
+npx = Node Package Execute
+
+window + R = run
+
+cmd then enter
+
+node -v
+
+npx -v
+
+npm -v
+
+npx create-react-app <projectName>
+npx create-react-app Umesh
+npx create-react-app flipkart
+
+A blank reactjs project is of 374 MB of size
+
+cd = change directory
+
+How to open terminal with shortcut key in VSCode editor
+
+ctrl + ` (Back Tick)
+
+cls = clear screen
+
+Address contain some address
+
+http://hostname:port/
+http://localhost:3000/
+
+
+npm start  -> react-scripts start
+
+npm build
+
+Ctrl + c = close
+
+ReactJs support HotReloading (AutoReloading/AutoRefresh)
+
+./ = current directory
+
+svg is a image (scalable vector graphic)
+
+SPA = (Single Page Application)
+
+
